@@ -4,4 +4,4 @@
 *.jar
 *.war
 *.ear
-/target
+/primefaces-showcase/target
