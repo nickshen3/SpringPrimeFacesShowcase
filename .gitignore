@@ -5,3 +5,4 @@
 *.war
 *.ear
 /primefaces-showcase/target
+/booking-faces/target
