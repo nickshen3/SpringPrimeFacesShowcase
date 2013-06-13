@@ -14,7 +14,7 @@
 		<webflow-version>2.4.0.M1</webflow-version>
 		<slf4j-version>1.6.6</slf4j-version>
 		<mojarra-version>2.1.22</mojarra-version>
-		<primefaces-version>3.3.1</primefaces-version>
+		<primefaces-version>3.5</primefaces-version>
 	</properties>
 
 	<repositories>
