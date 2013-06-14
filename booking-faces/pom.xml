@@ -14,7 +14,7 @@
 		<webflow-version>2.4.0.M1</webflow-version>
 		<slf4j-version>1.6.6</slf4j-version>
 		<mojarra-version>2.1.22</mojarra-version>
-		<primefaces-version>3.5</primefaces-version>
+		<primefaces-version>3.5.7-UR</primefaces-version>
 	</properties>
 
 	<repositories>
@@ -29,6 +29,12 @@
 			<url>http://repository.primefaces.org</url>
 			<layout>default</layout>
 		</repository>		
+		<repository>
+		  <id>prime-github-repo</id>
+		  <name>Unofficial PrimeFaces Maven Repository</name>
+		  <url>http://primefaces.github.io/repository</url>
+		  <layout>default</layout>
+		</repository>
 	</repositories>
 
 	<dependencies>
