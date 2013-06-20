@@ -9,6 +9,6 @@
 	</application>
 	    
 	<lifecycle>
-		<phase-listener>org.springframework.webflow.Primefaces35PhaseListener</phase-listener>
+		<phase-listener>org.springframework.webflow.primefaces.Primefaces35PhaseListener</phase-listener>
 	</lifecycle>
 </faces-config>
